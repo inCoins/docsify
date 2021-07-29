@@ -4,10 +4,10 @@
 > * the community is divided into seven stages, and each stage has different development goals
 
 * **chaos: Puzzle:**
-> * :+1: **create an initial community team, with the president, justice, administration and judgment in place**
-> * complete public chain deployment and online decentralized exchange
-> * create communication groups
-> * create online official homepage
+> * :+1:**create an initial community team, with the president, justice, administration and judgment in place**
+> * :+1:**complete public chain deployment and online decentralized exchange**
+> * :+1:**create communication groups**
+> * :+1:**create online official homepage**
 > * creation of legislative bodies and recruitment of temporary agents
 > * creation of administrative bodies and recruitment of temporary acting members
 > * creation of judicial institutions and recruitment of temporary agents
