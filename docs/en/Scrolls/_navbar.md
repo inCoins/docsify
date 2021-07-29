@@ -1,1 +1,1 @@
-* [Home](https://www.baidu.com/)
+* [Home](https://www.incoin.fun/)
